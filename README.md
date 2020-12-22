@@ -1,4 +1,4 @@
-# Burglar-Alarm-System
+# Simple Burglar-Alarm-System
 
 ## Problem Statement:
 Design a simple burglar alarm system that monitors the status of windows/doors. When an unauthorized person opens the windows/doors, the system should sound alarm and display the number of opened windows/door on a seven-segment display.
